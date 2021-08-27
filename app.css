@@ -1,0 +1,17 @@
+body{
+    padding-top:130px;
+}
+
+.Under-full-name{
+    width: 40px;
+    color: maroon;
+    height: 3px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+}
+
+.Quotes{
+    font-style: italic;
+}
