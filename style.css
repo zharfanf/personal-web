@@ -1,0 +1,22 @@
+body{
+    padding-top:130px;
+}
+
+.Under-full-name{
+    width: 40px;
+    color: maroon;
+    height: 3px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+}
+
+.Quotes{
+    font-style: italic;
+}
+
+.intro{
+    font-family: 'Noto Sans','Oswald', sans-serif;
+    font-size: 20px;
+}
